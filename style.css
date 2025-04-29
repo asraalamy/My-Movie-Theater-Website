@@ -1,0 +1,45 @@
+
+    body{
+      background-color:#1d3065;
+    }
+ #p{
+   background-color:#B1F0F7;
+   color: #81BFDA;
+   height: 130px;
+   width: 500px;
+   margin: 10px 0 30px 250px;
+   
+ }
+#p :hover {
+   background-color:#81BFDA;
+   color:#B1F0F7;
+
+}
+ h1> span{
+   color: black;
+ }
+ h1{
+   color: rgb(172, 127, 255);
+   margin: 0 0 0 160px; 
+   
+ }
+ video {
+   margin: 20px 0 0 200px;
+   border:solid 8px #b1f0f7de ;
+ }
+ img{
+   width: 1000px;
+   height: 500px;
+ }
+ #mmm{
+   color: rgb(172, 127, 255);
+   margin:20px 220px 0 230px ;
+   border:solid 10px #b1f0f7de ;
+
+ }
+ #mmm> p {
+  margin-left: 30px;
+ }
+ 
+
+ 
